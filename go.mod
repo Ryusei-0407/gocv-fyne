@@ -1,4 +1,4 @@
-module github.com/Ryusei-0407/mp4
+module gocv-fyne
 
 go 1.16
 
